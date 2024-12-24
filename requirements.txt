@@ -1,0 +1,6 @@
+groq
+webwhatsapp-wrapper
+python-dotenv
+Pillow
+requests
+selenium
