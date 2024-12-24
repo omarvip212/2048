@@ -1,0 +1,9 @@
+run = "npm install && node whatsapp_bot.js"
+language = "nodejs"
+entrypoint = "whatsapp_bot.js"
+
+[nix]
+channel = "stable-22_11"
+
+[env]
+XDG_CONFIG_HOME = "/home/runner/.config"
